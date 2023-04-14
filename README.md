@@ -2,7 +2,7 @@
 
 ####  Sobre mim:
 - 📚 Estou cursando tecnólogo em Análise e Desenvolvimento de Sistemas (Unisociesc).
-- 💻 Atualmente estagiando no time de suporte técnico na Philips Clinical Informatics.
+- 💻 Atualmente trabalhando como Analista de suporte N1 na LINX - StoneCO.
 
 ##
 <div>
